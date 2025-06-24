@@ -9,6 +9,7 @@
     --light-gray: hsla(0, 0%, 65%, 1);                /*text*/
     --darker-gray: hsla(0, 0%, 50%, 1);               /*strong text over ash/gray*/
     --rich-black: hsla(226, 100%, 3%, 1);             /*titles*/
+    --rich-glowy-yellow: hsla(60, 98%, 52%, 1);       /*text on sideBCKG*/
 
     --naples-yellow: hsla(44, 81%, 67%, 1);           /*important element*/
     --brighter-naples-yellow: hsla(44, 81%, 72%, 1);  /*hover important element*/
@@ -50,6 +51,7 @@
     --side-background: var(--dark-purple);
 
     --title: var(--rich-black);
+    --strong-text: var(--darker-gray);
     --text: var(--light-gray);
 
     --important-element: var(--naples-yellow);
